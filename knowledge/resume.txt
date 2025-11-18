@@ -1,0 +1,51 @@
+Jane Doe  
+Web Developer  
+Email: jane.doe@example.com  
+Location: Seoul, South Korea  
+GitHub: https://github.com/janedoe  
+Portfolio: https://janedoe.dev  
+LinkedIn: https://www.linkedin.com/in/janedoe  
+
+Summary  
+Web developer with 2+ years of experience building modern, responsive, and user-friendly web applications. Skilled in JavaScript, React, Node.js, and REST API development. Strong understanding of frontend UI/UX principles and backend service integration. Passionate about improving performance, accessibility, and developer workflow.
+
+Technical Skills  
+- Languages: JavaScript, TypeScript, Python, HTML, CSS  
+- Frontend: React, Next.js, Redux, Tailwind CSS  
+- Backend: Node.js, Express, FastAPI  
+- Databases: PostgreSQL, MongoDB, Firebase  
+- DevOps: Docker, Nginx, GitHub Actions  
+- Tools: Git, VSCode, Figma, Jira  
+
+Work Experience  
+
+Web Developer – XYZ Web Solutions (2022–2025)  
+- Developed responsive SPA web apps using React and Next.js.  
+- Built backend REST APIs with Node.js and Express.  
+- Improved page load speed by 30% through code splitting and image optimization.  
+- Collaborated with designers to implement pixel-perfect UI based on Figma.  
+- Integrated third-party APIs including OAuth2, Stripe, and Google Maps.  
+- Implemented automated CI/CD with GitHub Actions.
+
+Projects  
+
+E-Commerce Web Application  
+- Built a full-stack online store using React, Node.js, and PostgreSQL.  
+- Implemented user authentication, shopping cart system, and admin dashboard.  
+- Optimized Lighthouse performance score from 54 → 92.
+
+Personal Portfolio Website  
+- Developed a personal portfolio with animated UI using Next.js + Tailwind CSS.  
+- Achieved 99% mobile responsiveness test score.
+
+AI-Enhanced Blog Platform  
+- Created a blog engine with AI-generated summaries using OpenAI APIs.  
+- Added search, tagging, and SEO optimization features.
+
+Education  
+B.S. in Computer Engineering – Hongik University (2018–2022)
+
+Additional  
+- Strong communication & teamwork skills  
+- Experience with Agile/Scrum  
+- Passionate about UI/UX, performance tuning, and learning new technologies
