@@ -35,7 +35,7 @@ job_matching_agent:
     or overburdened roles disguised as promotions. Your job is to score each opportunity from 1 to 5 
     and justify that score clearly, preserving all original job fields for transparency.
   verbose: true
-  llm: openai/o4-mini-2025-04-16
+  llm: openai/gpt-4o-mini
 
 resume_optimization_agent:
   role: >
